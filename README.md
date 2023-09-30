@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @DootLoot
-- 👀 I’m interested in Game Development and Modding
-- 🌱 I’m currently learning Python and C#
-- 💞️ I’m looking to collaborate on Mods an Small Games
-- 📫 How to reach me:
-kirboohero999@gmail.com
+- 👀 I’m interested in Software Development and Web Design
+- 🌱 I’m currently learning Python and C++
+- 💞️ I’m looking for a position on a small team of developers, or as a intern for a company
+- 📫 How to reach me: aaronlawjr@gmail.com
 <!---
 DootLoot/DootLoot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
