@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DootLoot
-- 👀 I’m interested in Software Development and IT
-- 🌱 I’m currently studying to enter the IT industry
+- 👀 I’m interested in Software Development and Music
+- 🌱 I’m currently studying to become a Cybersecurity Specialist
 - 💞️ I’m looking for a internship position for new or self-taught developers/techs
 - 📫 How to reach me: aaronlawjr@gmail.com
 <!---
